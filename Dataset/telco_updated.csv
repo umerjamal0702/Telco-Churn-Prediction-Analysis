@@ -1,0 +1,15 @@
+Contract Segment,Churned Customers,,Payment Method,Total Customers,Churned Customers,,Senior Citizen Status,Total Customers,Churned Customers
+Month-to-Month,1655,,Bank Withdrawal,3909,1329,,Yes,1142,476
+One Year,166,,Credit Card,2749,398,,No,5901,1393
+Two Year,48,,Mailed Check,385,142,,Grand Total,7043,1869
+Grand Total,1869,,Grand Total,7043,1869,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Pricing Segment,Total Customers,Churned Customers,,Customer Life-Cycle Stage,Total Customers,Churned Customers,,
+,LOW,2294,361,,NEW,3116,1308,,
+,MEDIUM,2083,602,,MID-TERM,1688,348,,
+,HIGH,2666,906,,LONG-TERM,2239,213,,
+,Grand Total,7043,1869,,Grand Total,7043,1869,,
