@@ -69,20 +69,24 @@ Conducted business-focused analysis including:
 ![Dashboard](PowerBI/churn_dashboard.png)
 
 
-Developed an interactive dashboard to visualize:
+Developed an interactive dashboard to visualize
 
-- Overall churn rate
-- Contract-based churn
-- Pricing-based churn
-- Customer lifecycle analysis
-- Key customer segments
+- Month-to-month customers showed the highest churn rates.
+- New customers were more likely to churn than long-term customers.
+- Higher monthly charges were associated with increased churn risk.
+- Payment methods demonstrated varying retention patterns.
 
 ### 5. Azure Machine Learning
 
 Built and evaluated two classification models:
 
 - Two-Class Logistic Regression
+
+  ![Logistic Regression](Azure/evaluation_logistic_regression.png)
+  
 - Two-Class Decision Forest
+
+   ![Decision Forest](Azure/evaluation_Forest.png)
 
 Models were trained to predict whether a customer would churn.
 
