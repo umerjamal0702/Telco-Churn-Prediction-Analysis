@@ -63,7 +63,7 @@ Conducted business-focused analysis including:
 - High-risk customer segment analysis
 
 ### 4. Power BI Dashboard
-![Dashboard](PowerBI/telecom_churn_dashboard.png)
+PowerBI/churn_dashboard.png
 
 
 Developed an interactive dashboard to visualize:
