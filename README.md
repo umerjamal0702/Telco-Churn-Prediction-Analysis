@@ -44,6 +44,8 @@ The goal of this project was to:
 
 ### 2. Excel Analysis
 
+![Excel Analysis](Excel/Pivot_tables.png)
+
 Performed exploratory analysis using Pivot Tables to investigate:
 
 - Contract segments
