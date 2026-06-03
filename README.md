@@ -63,7 +63,8 @@ Conducted business-focused analysis including:
 - High-risk customer segment analysis
 
 ### 4. Power BI Dashboard
-PowerBI/churn_dashboard.png
+
+![Dashboard](PowerBI/churn_dashboard.png)
 
 
 Developed an interactive dashboard to visualize:
